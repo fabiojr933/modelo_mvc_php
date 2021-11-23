@@ -51,11 +51,3 @@ RewriteRule ^((?!public/).*)$ my-receitas/public/$1 [L,NC]
 
 Observe que na linha acima temos o caminho para a pasta public, definida como **my-receitas/public/**, sendo assim, troque o caminho **my-receitas** pelo nome da pasta do seu projeto. Obs. Caso esteja na root, remova o caminho **my-receitas**.
 
-## Links uteis
-
-* https://academy.satellasoft.com/course/php-mvc-criando-um-site-de-receitas
-* https://twig.symfony.com
-* https://getcomposer.org
-* https://www.mysql.com/products/workbench/
-* https://code.visualstudio.com
-* https://www.apachefriends.org/pt_br/
